@@ -15,14 +15,21 @@
   
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathsstack&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=161d25" alt="Gabriel Felipe's Top Languages" />
 <br>
-<!--Mostra as tecnlogias que sei aplicar-->
 
-<br>
+<!-- Social medias -->
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+
+<br><br>
  
+<!-- Conquistas -->
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mathsstack&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
   <br>
+
+<!-- Skills -->
   
   ### Main skills:
 <br>
