@@ -6,16 +6,16 @@
 
 <div align="center"> 
   
-  <!--Mostra a o github status-->
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mathsstack&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Felipe's github status" /> 
+ <!--Mostra a o github status-->
+  <img width="52%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mathsstack&show_icons=true&count_private=true&theme=dracula" alt="Gabriel Felipe's github status" /> 
   
-  <!--Mostra as linguagens usadas-->
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathsstack&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
+ <!--Mostra as linguagens usadas-->
+  
+<img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathsstack&layout=compact" alt="Gabriel Felipe's Top Languages" /> 
+  
 <!--Mostra as tecnlogias que sei aplicar-->
 
-Tecnologias:
+<br>Tecnologias:
 <div style="display: inline_block"><br>
   <img align="center" alt="math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
