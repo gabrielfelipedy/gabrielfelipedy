@@ -8,17 +8,19 @@
 
 <div align="center"> 
   
- <!--Mostra a o github status-->
+<!--Mostra a o github status-->
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mathsstack&show_icons=true&hide_border=true&count_private=true&theme=dracula&bg_color=161d25" alt="Gabriel Felipe's github status" /> 
   
- <!--Mostra as linguagens usadas-->
+<!--Mostra as linguagens usadas-->
   
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathsstack&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=161d25" alt="Gabriel Felipe's Top Languages" />
 <br>
 
-<!-- Social medias -->
+  ### Social medias:
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="https://codepen.io/mathstack">
+<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
+</a>
 
 <br><br>
  
@@ -43,11 +45,16 @@
   
   ### Tools:
   
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-  
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+
   <br>
   
   
