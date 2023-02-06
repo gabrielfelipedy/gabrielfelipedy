@@ -9,7 +9,7 @@
 <div align="center"> 
   
 <!--Mostra a o github status-->
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mathsstack&show_icons=true&hide_border=true&count_private=true&theme=dracula&bg_color=161d25" alt="Gabriel Felipe's github status" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mathsstack&show_icons=true&hide_border=true&count_private=true&theme=dark&bg_color=161d25" alt="Gabriel Felipe's github status" /> 
   
 <!--Mostra as linguagens usadas-->
   
@@ -21,7 +21,15 @@
 <a href="https://codepen.io/mathstack">
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
 </a>
-
+<a href="https://www.instagram.com/mathsstack/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="https://mobile.twitter.com/mathsstack">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+</a>
+<a href="https://www.tiktok.com/@g4brielfelipe">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+</a>
 <br><br>
  
 <!-- Conquistas -->
