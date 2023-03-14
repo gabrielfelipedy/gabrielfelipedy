@@ -9,11 +9,11 @@
 <div align="center"> 
   
 <!--Mostra a o github status-->
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mathsstack&show_icons=true&hide_border=true&count_private=true&theme=dark&bg_color=161d25" alt="Gabriel Felipe's github status" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielfelipeassuncaodesouza&show_icons=true&hide_border=true&count_private=true&theme=dark&bg_color=161d25" alt="Gabriel Felipe's github status" /> 
   
 <!--Mostra as linguagens usadas-->
   
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathsstack&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=161d25" alt="Gabriel Felipe's Top Languages" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfelipeassuncaodesouza&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=161d25" alt="Gabriel Felipe's Top Languages" />
 <br>
 
   ### Social medias:
@@ -35,7 +35,7 @@
 <!-- Conquistas -->
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mathsstack&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gabrielfelipeassuncaodesouza&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
   <br>
 
