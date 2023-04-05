@@ -1,9 +1,4 @@
-<!-- Carrega a imagem de cima -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-
-<!--Exibe o texto-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Felipe;I'm+18+years+old;I+am+from+Brasil,+AP;I+study+at+UNIFAP;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
+Hi, I'm Gabriel Felipe :smile:
 <br>
 
 <div align="center"> 
@@ -14,8 +9,7 @@
   
 <!--Mostra as linguagens usadas-->
   
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfelipeassuncaodesouza&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=161d25" alt="Gabriel Felipe's Top Languages" />
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfelipeassuncaodesouza&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
   ### Social medias:
 
