@@ -8,8 +8,9 @@
 
 <div align="center"> 
   
-<!--Mostra a o github status-->
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielfelipeassuncaodesouza&show_icons=true&hide_border=true&count_private=true&theme=dark&bg_color=161d25" alt="Gabriel Felipe's github status" /> 
+<!--Mostra o Github status-->
+
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielfelipeassuncaodesouza&show_icons=true&theme=radical)
   
 <!--Mostra as linguagens usadas-->
   
