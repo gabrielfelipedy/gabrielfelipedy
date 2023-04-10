@@ -10,7 +10,7 @@ Hi, I'm Gabriel Felipe :smile:
   
 <!--Mostra as linguagens usadas-->
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfelipeassuncaodesouza&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielfelipeassuncaodesouza&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--Social medias -->
 ***
