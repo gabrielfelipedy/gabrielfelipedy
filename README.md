@@ -42,10 +42,14 @@
   <img align="center" alt="math-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="math-Java" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?size=128">
   <img align="center" alt="math-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="math-Java" height="30" width="40" src="https://icongr.am/devicon/apache-plain.svg?size=128&color=ffffff">
   <img align="center" alt="math-Java" height="30" width="40" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=dc8add">
+  <img align="center" alt="math-Java" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128">
+  <img align="center" alt="math-Java" height="30" width="40" src="https://icongr.am/devicon/jquery-original.svg?size=128">
+  <img align="center" alt="math-Java" height="30" width="40" src="https://icongr.am/devicon/linux-plain.svg?size=128&color=ffffff">
+  <img align="center" alt="math-Java" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128">
+  <img align="center" alt="math-Java" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128">
   <img align="center" alt="math-Java" height="30" width="40" src="https://icongr.am/devicon/apache-original.svg?size=128&color=currentColor">
-  <img align="center" alt="math-Java" height="30" width="40" src="https://icongr.am/devicon/apache-original.svg?size=128&color=currentColor">
-  <img align="center" alt="math-Java" height="30" width="40" src="https://icongr.am/devicon/apache-original.svg?size=128&color=currentColor">
+  <img align="center" alt="math-Java" height="30" width="40" src="https://icongr.am/devicon/vim-original.svg?size=128">
+  <img align="center" alt="math-Java" height="30" width="40" src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=62a0ea">
   <br><br><br>
 </div>
