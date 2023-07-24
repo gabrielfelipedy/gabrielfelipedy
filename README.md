@@ -1,19 +1,13 @@
-Hi, My name is Gabriel Felipe :smile:
-
-*** 
-
 <div align="center"> 
-  
+  <h2>Hi, My name is Gabriel Felipe 😄</h2>
 <!--Mostra o Github status-->
+  
+## My current status:
 
-![Gabriel's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielfelipeassuncaodesouza&show_icons=true&theme=radical)
-  
-<!--Mostra as linguagens usadas-->
-  
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielfelipeassuncaodesouza&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img style="width: 430px;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielfelipeassuncaodesouza&show_icons=true&theme=radical"> [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielfelipeassuncaodesouza&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--Social medias -->
-***
+## My social medias:
 
 <a href="https://codepen.io/mathstack">
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
@@ -31,19 +25,27 @@ Hi, My name is Gabriel Felipe :smile:
  
 <!-- Conquistas -->
 
+## My achievements
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gabrielfelipeassuncaodesouza&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 <!-- Skills -->
 
-***
+## My skills:
 
 <img align="center" alt="math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="math'Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="math'Js" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor"> 
   <img align="center" alt="math-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="math-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="math-cpp" height="30" width="28" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
+  <img align="center" alt="math-Java" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?size=128">
   <img align="center" alt="math-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="math-Java" height="30" width="40" src="https://icongr.am/devicon/apache-plain.svg?size=128&color=ffffff">
+  <img align="center" alt="math-Java" height="30" width="40" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=dc8add">
+  <img align="center" alt="math-Java" height="30" width="40" src="https://icongr.am/devicon/apache-original.svg?size=128&color=currentColor">
+  <img align="center" alt="math-Java" height="30" width="40" src="https://icongr.am/devicon/apache-original.svg?size=128&color=currentColor">
+  <img align="center" alt="math-Java" height="30" width="40" src="https://icongr.am/devicon/apache-original.svg?size=128&color=currentColor">
   <br><br><br>
 </div>
