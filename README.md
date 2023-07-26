@@ -37,16 +37,16 @@
 <img align="center" alt="math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="math'Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="math'Js" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor"> 
+  <img align="center" alt="math-Java" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128">
+  <img align="center" alt="math'Js" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
+  <img align="center" alt="math-Java" height="30" width="40" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=dc8add">
   <img align="center" alt="math-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="math-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="math-Java" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?size=128">
   <img align="center" alt="math-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="math-Java" height="30" width="40" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=dc8add">
   <img align="center" alt="math-Java" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128">
   <img align="center" alt="math-Java" height="30" width="40" src="https://icongr.am/devicon/jquery-original.svg?size=128">
   <img align="center" alt="math-Java" height="30" width="40" src="https://icongr.am/devicon/linux-plain.svg?size=128&color=ffffff">
-  <img align="center" alt="math-Java" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128">
   <img align="center" alt="math-Java" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128">
   <img align="center" alt="math-Java" height="30" width="40" src="https://icongr.am/devicon/apache-original.svg?size=128&color=currentColor">
   <img align="center" alt="math-Java" height="30" width="40" src="https://icongr.am/devicon/vim-original.svg?size=128">
