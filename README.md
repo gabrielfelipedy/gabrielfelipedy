@@ -4,7 +4,7 @@
   
 ## My current status:
 
-<img style="width: 430px;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielfelipeassuncaodesouza&show_icons=true&theme=radical"> [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielfelipeassuncaodesouza&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img style="width: 430px;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielf3lip3&show_icons=true&theme=radical"> [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielf3lip3&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--Social medias -->
 ## My social medias:
