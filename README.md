@@ -24,7 +24,7 @@
 <a href="https://www.reddit.com/user/gabrielf3lip3">
 <img src="https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white">
 </a>
-<a href="https://www.reddit.com/user/gabrielf3lip3">
+<a href="https://stackoverflow.com/users/22279542/gabriel-felipe">
 <img src="https://img.shields.io/badge/Stackoverflow-FF5700?style=for-the-badge&logo=stackoverflow&logoColor=white">
 </a>
 <a href="https://codepen.io/mathstack">
