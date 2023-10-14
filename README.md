@@ -27,6 +27,9 @@
 <a href="https://stackoverflow.com/users/22279542/gabriel-felipe">
 <img src="https://img.shields.io/badge/Stackoverflow-FF5700?style=for-the-badge&logo=stackoverflow&logoColor=white">
 </a>
+<a href="https://www.tabnews.com.br/gabrielfelipe">
+<img src="https://img.shields.io/badge/TabNews-000000?style=for-the-badge&logo=stackoverflow&logoColor=white">
+</a>
 <a href="https://codepen.io/mathstack">
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
 </a>
