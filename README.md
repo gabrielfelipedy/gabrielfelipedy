@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
 <br>
-<a href="https://reddit.com/user/gabrielf3lip3">
+<a href="https://reddit.com/user/gabrielfelipedy">
 <img src="https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white">
 </a>
 <a href="https://stackoverflow.com/users/22279542/gabriel-felipe">
