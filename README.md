@@ -3,7 +3,7 @@
 
 ## My social medias:
 
-<a href="https://www.linkedin.com/in/gabrielf3lip3">
+<a href="https://www.linkedin.com/in/gabrielfelipedy">
 <img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://www.twitter.com/mathsstack">
