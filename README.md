@@ -1,8 +1,6 @@
-<div align="center"> 
-  <h2>Hi, My name is Gabriel Felipe 😄</h2>
-<!--Mostra o Github status-->
-  
+<h2>Hi, My name is Gabriel Felipe 😄</h2>
 <!--Social medias -->
+
 ## My social medias:
 
 <a href="https://www.linkedin.com/in/gabrielf3lip3">
@@ -17,6 +15,7 @@
 <a href="https:/www.facebook.com/gabrielf3lip3">
 <img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
+<br>
 <a href="https://www.reddit.com/user/gabrielf3lip3">
 <img src="https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white">
 </a>
@@ -30,19 +29,12 @@
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
 </a>
 
-<br><br>
- 
-<!-- Conquistas -->
-
-## My achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gabrielf3lip3&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 <!-- Skills -->
 
 ## My skills:
 
+
+<div align="center"> 
 <img align="center" alt="math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="math'Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
