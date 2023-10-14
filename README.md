@@ -3,26 +3,26 @@
 
 ## My social medias:
 
-<a href="https://www.linkedin.com/in/gabrielfelipedy">
+<a href="https://linkedin.com/in/gabrielfelipedy">
 <img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://www.twitter.com/mathsstack">
+<a href="https://twitter.com/mathsstack">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
-<a href="https://www.instagram.com/gabrielf3lip3/">
+<a href="https://instagram.com/gabrielf3lip3/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="https:/www.facebook.com/gabrielf3lip3">
+<a href="https:/facebook.com/gabrielf3lip3">
 <img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
 <br>
-<a href="https://www.reddit.com/user/gabrielf3lip3">
+<a href="https://reddit.com/user/gabrielf3lip3">
 <img src="https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white">
 </a>
 <a href="https://stackoverflow.com/users/22279542/gabriel-felipe">
 <img src="https://img.shields.io/badge/Stackoverflow-FF5700?style=for-the-badge&logo=stackoverflow&logoColor=white">
 </a>
-<a href="https://www.tabnews.com.br/gabrielfelipe">
+<a href="https://tabnews.com.br/gabrielfelipe">
 <img src="https://img.shields.io/badge/TabNews-000000?style=for-the-badge&logo=stackoverflow&logoColor=white">
 </a>
 <a href="https://codepen.io/mathstack">
