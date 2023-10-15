@@ -1,4 +1,8 @@
 <h2>Hi, My name is Gabriel Felipe 😄</h2>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielfelipedy&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfelipedy&layout=compact&theme=dracula)
+
 <!--Social medias -->
 
 ## My social medias:
