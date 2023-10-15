@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Felipe;I'm+19+years+old;I+from+Brasil,+AP;I+study+Computer+Science+at+UNIFAP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielfelipedy&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Gabriel Felipe github stats" /> <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfelipedy&layout=compact&theme=dracula&hide_border=true" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielfelipedy&show_icons=true&theme=dark&count_private=true&icon_color=00bfbf&bg_color=0d1117" alt="Gabriel Felipe github stats" /> <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfelipedy&layout=compact&theme=dark&bg_color=0d1117" />
 
 <!--Social medias -->
 
