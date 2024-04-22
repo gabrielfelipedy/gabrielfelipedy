@@ -42,15 +42,9 @@
   
   <img align="center" alt="math-CSS" height="30" width="40" src="https://camo.githubusercontent.com/e531a79257b93921f8b58efa952eb049ceb2672bcf57bd666165476261c145a8/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373">
   
-  <img align="center" alt="math-Js" height="40" width="50" src="https://camo.githubusercontent.com/0418a2bf25601cc5d8fae74f654b10d5734360ff2b1bb3b2fea4bb086baf5586/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667">
-
   <img align="center" alt="math-Js" height="40" width="50" src="https://camo.githubusercontent.com/7d2502981f54a67b821893f32f9ae04884c4ae47bafe9dd26ae43563398cd599/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73">
   
   <img align="center" alt="math-ts" height="40" width="50" src="https://camo.githubusercontent.com/b8dc7de058b6dca715cef009bc63e74b49f0747d6252cff3da6e7289bf8774d1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667">
-
-  <img align="center" alt="math-insomnia" height="40" width="40" src="https://camo.githubusercontent.com/21ea58c5ad852075335cd68c10e0bd848d3096509420808521f83058b6321975/68747470733a2f2f64617368626f6172642e736e617063726166742e696f2f736974655f6d656469612f6170706d656469612f323031382f30342f747769747465722d636172642d69636f6e2e706e67">
-
-  <img align="center" alt="math-postman" height="40" width="40" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png">
   
   <img align="center" alt="math-jquery" height="30" width="40" src="https://camo.githubusercontent.com/92b57616aa8c824a491469633dc693341da362ae233bf03e0384cfb9a154ddcf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a7175657279">
   
@@ -71,9 +65,4 @@
   <img align="center" alt="math-linux" height="30" width="40" src="https://icongr.am/devicon/linux-plain.svg?size=128&color=ffffff">
  
   <img align="center" alt="math-my-sql" height="40" width="50" src="https://camo.githubusercontent.com/69fa8ed185f6026de241b4a3eb05855be4660cbc2d36f01b9e9b64e32e0472da/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667">
-  
-  <img align="center" alt="math-vim" height="30" width="40" src="https://icongr.am/devicon/vim-original.svg?size=128">
-  
-  <img align="center" alt="math-vscode" height="30" width="40" src="https://camo.githubusercontent.com/a84b921a468b7756774d8cdbefeaf74db66bd4452392162b76b9845cd7f58301/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465">
-  <br><br><br>
 </div>
