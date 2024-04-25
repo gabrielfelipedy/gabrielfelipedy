@@ -1,18 +1,18 @@
 🇧🇷
 
-Olá, meu nome é Gabriel Felipe
-Tenho 19 anos
-Moro em Macapá - AP - Brasil
-Sou estudante universitário
-Seja bem vindo ao meu perfil!
+Olá, meu nome é Gabriel Felipe<br>
+Tenho 19 anos<br>
+Moro em Macapá - AP - Brasil<br>
+Sou estudante universitário<br>
+Seja bem vindo ao meu perfil!<br>
 
 🇺🇸
 
-Hello! My name is Gabriel Felipe
-I'm 19 years old
-I live in Macapá, state of Amapá, Brazil
-I'm a college student
-Be welcome to my profile!
+Hello! My name is Gabriel Felipe<br>
+I'm 19 years old<br>
+I live in Macapá, state of Amapá, Brazil<br>
+I'm a college student<br>
+Be welcome to my profile!<br>
 
 <br>
 
