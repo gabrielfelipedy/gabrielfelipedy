@@ -1,4 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Felipe;I'm+19+years+old;I+from+Brasil,+AP;I+study+Computer+Science+at+UNIFAP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+🇧🇷
+
+Olá, meu nome é Gabriel Felipe
+Tenho 19 anos
+Moro em Macapá - AP - Brasil
+Sou estudante universitário
+Seja bem vindo ao meu perfil!
+
+🇺🇸
+
+Hello! My name is Gabriel Felipe
+I'm 19 years old
+I live in Macapá, state of Amapá, Brazil
+I'm a college student
+Be welcome to my profile!
+
+<br>
 
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielfelipedy&show_icons=true&theme=dark&count_private=true&icon_color=00bfbf&bg_color=0d1117" alt="Gabriel Felipe github stats" /> <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfelipedy&layout=compact&theme=dark&bg_color=0d1117" />
 
