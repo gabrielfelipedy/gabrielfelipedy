@@ -12,7 +12,7 @@ Hello! My name is Gabriel Felipe<br>
 I'm 19 years old<br>
 I live in Macapá, state of Amapá, Brazil<br>
 I'm a college student<br>
-Be welcome to my profile!<br>
+Welcome to my profile!<br>
 
 <br>
 
