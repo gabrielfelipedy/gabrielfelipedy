@@ -20,7 +20,7 @@ Welcome to my profile!<br>
 
 <!--Social medias -->
 
-## My social medias:
+## Minhas redes sociais:
 
 <a href="https://linkedin.com/in/gabrielfelipedy">
 <img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -28,38 +28,33 @@ Welcome to my profile!<br>
 <a href="https://twitter.com/gabrielfelipedy">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
-<a href="https://instagram.com/gabrielf3lip3/">
+<a href="https://instagram.com/gabrielfelipedev/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="https://facebook.com/gabrielfelipedy">
+<a href="https://facebook.com/gabrielfelipedev">
 <img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
+<a href="https://dev.to/gabrielfelipe>
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+</a>
 <br>
-<a href="https://reddit.com/user/gabrielfelipedy">
-<img src="https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white">
-</a>
-<a href="https://stackoverflow.com/users/22279542/gabriel-felipe">
-<img src="https://img.shields.io/badge/Stackoverflow-FF5700?style=for-the-badge&logo=stackoverflow&logoColor=white">
-</a>
-<a href="https://tabnews.com.br/gabrielfelipe">
-<img src="https://img.shields.io/badge/TabNews-000000?style=for-the-badge&logo=stackoverflow&logoColor=white">
-</a>
-<a href="https://codepen.io/mathstack">
-<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
-</a>
 
 <!-- Skills -->
 
-## My skills:
+## Minhas habilidades:
 
 
 <div align="center">   
-  <img align="center" alt="math-angular" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
- 
-  <img align="center" alt="math-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="math-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+
+  <img align="center" alt="js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img align="center" alt="c" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+  <img align="center" alt="c++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img align="center" alt="angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+  <img align="center" alt="nextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  <img align="center" alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   
-  <img align="center" alt="math-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="math-git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128">
-  <img align="center" alt="math-linux" height="30" width="40" src="https://icongr.am/devicon/linux-plain.svg?size=128&color=ffffff">
  </div>
